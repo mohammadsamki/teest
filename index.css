@@ -1,0 +1,19 @@
+ /* tag name */
+ h1{
+    color:red;
+    font-size: 24px;
+}
+/* class name */
+.greenColor{
+    color:green
+}
+/* id name */
+#newId{
+    color:blue;
+    font-size: 18px;
+    border: 3px black solid;
+    background-color: aqua;
+    padding: 20px 10px;
+    margin: 50px;
+
+}
